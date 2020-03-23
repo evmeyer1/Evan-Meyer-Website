@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-  <title>Evan Meyer</title>
+  <title>Boredom has set in as Day 9 of Quarantine has rolled around </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
